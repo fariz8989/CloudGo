@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+}
+
+/*MainPage*/
+#mainpage {
+  background-color: #334257;
+  padding: 2% 1.5%;
+}
+
+.background {
+  width: 15%;
+  margin-left: 2%;
+}
+
+.topnav-right {
+  float: right;
+  font-weight: bold;
+}
+
+.topnav a {
+  float: left;
+  color: #EEEEEE;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px 20px;
+  font-family: 'Poppins', sans-serif;
+}
+.topnav a:hover{
+  text-decoration: underline;
+}
+.mainscreen {
+  font-family: 'Crete Round', serif;
+  color: #EEEEEE;
+  font-size: 30px;
+  margin: 30px;
+}
+
+.mainscreen p {
+  font-family: 'Poppins', sans-serif;
+}
+
+.table {
+  display: table;
+}
+
+.table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.table-cell-left {
+  width: 60%;
+}
+
+.table-cell-right {
+  width: 40%;
+}
+
+.LogoDisplay {
+  width: 65%;
+}
+
+.button {
+  border-radius: 40%;
+}
+
+/*features*/
+#features {
+  background-color: #EEEEEE;
+  padding: 2% 1.5%;
+}
+
+.table-row {
+  display: table-row;
+}
+
+.table-features {
+  width: 10%;
+  padding: 30px;
+  text-align: center;
+  font-family: 'Crete Round', serif;
+}
+
+.table-features p {
+  font-family: 'Poppins', sans-serif;
+}
+
+.fas {
+  color: #4E89AE;
+}
+
+
+
+.fas:hover {
+
+}
+/*Storage*/
+#storage{
+  background-color: #334257;
+}
+.table-storage{
+  width: 10%;
+  padding: 55px 25px;
+  text-align: center;
+  font-family: 'Crete Round', serif;
+  color: #EEEEEE;
+
+
+
+}
+.table-outline{
+  border: solid;
+  border-radius: 16px;
+
+
+
+}
+.icon{
+  padding: 20px;
+}
+
+.black{
+  color: black;
+}
+.blue{
+  color: #548CA8;
+}
+.gold{
+  	color: 	#FFD700;
+}
+.white{
+  color: white;
+}
+.caption{
+  font-family: 'Poppins', sans-serif;
+}
+/*FOOTER*/
+#footer{
+  background-color: #EEEEEE;
+  padding: 5% 10%;
+  text-align: center;
+    font-family: 'Crete Round', serif;
+}
+.footer-icon {
+  padding: 0 10px;
+  margin: 0 0 10px;
+    color: #4E89AE;
+
+}
+.footer-icon:hover{
+  color: black;
+}
+.price{
+  text-decoration: underline;
+}
